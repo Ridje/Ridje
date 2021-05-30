@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Ilya, I live in Moscow. I am pretty experienced Devops and 1C-developer but now I decided to switch to android-development.
-Wish me luck 😺
+Wish me luck 😺.
 
 - ⌨️ I’m currently working on [Coin Monitor (Android/Java)](https://github.com/Ridje/coinMonitor) and [Your anime list (Android/Kotlin)] (https://github.com/Ridje/YourAnimeList)
 - 🤔 I’m looking for help with websockets in RxJava, if you know how to improve [Coin Monitor (Android/Java)](https://github.com/Ridje/coinMonitor) architecture - let me know.
