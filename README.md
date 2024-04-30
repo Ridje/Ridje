@@ -5,7 +5,5 @@
 <br>
 
 ### Hi there
-My name is Ilya, I live in Tbilisi, Georgia. I am an android developer. Doing my best to be a human.
-
-- pet-project - client for myanimelist.net [YourAnimeList](https://github.com/Ridje/YourAnimeList)
+Dream about electro sheeps.
 
